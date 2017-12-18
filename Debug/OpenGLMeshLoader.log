@@ -1,0 +1,8 @@
+﻿  OpenGLMeshLoader.cpp
+e:\openglmeshloader\texturebuilder.h(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\openglmeshloader\texturebuilder.h(28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\openglmeshloader\openglmeshloader.cpp(26): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\openglmeshloader\openglmeshloader.cpp(29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  OpenGLMeshLoader.vcxproj -> E:\OpenGLMeshLoader\Debug\OpenGLMeshLoader.exe
+  OpenGLMeshLoader.vcxproj -> E:\OpenGLMeshLoader\Debug\OpenGLMeshLoader.pdb (Full PDB)
